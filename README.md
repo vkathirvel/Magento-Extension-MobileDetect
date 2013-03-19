@@ -1,0 +1,2 @@
+Magento-Extension-MobileDetect
+==============================
