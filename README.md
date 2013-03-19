@@ -1,2 +1,2 @@
-Magento-Extension-MobileDetect
-==============================
+Optimise Web's MobileDetect Magento Extension
+=============================================
