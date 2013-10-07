@@ -11,10 +11,24 @@
 
     <modules>
         <Optimiseweb_MobileDetect>
-            <version>0.1.6</version>
+            <version>0.1.7</version>
         </Optimiseweb_MobileDetect>
     </modules>
+    
+    <frontend>
+        
+        <translate>
+            <modules>
+                <Optimiseweb_MobileDetect>
+                    <files>
+                        <default>Optimiseweb_MobileDetect.csv</default>
+                    </files>
+                </Optimiseweb_MobileDetect>
+            </modules>
+        </translate>
 
+    </frontend>
+    
     <global>
 
         <helpers>

@@ -10,7 +10,6 @@
  */
 require_once Mage::getModuleDir('', 'Optimiseweb_MobileDetect') . DS . 'Library' . DS . 'Mobile_Detect.php';
 
-class Optimiseweb_MobileDetect_Helper_Data extends Mobile_Detect
-{
-
+class Optimiseweb_MobileDetect_Helper_Data extends Mobile_Detect {
+    
 }
