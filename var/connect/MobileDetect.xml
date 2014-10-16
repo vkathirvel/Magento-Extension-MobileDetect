@@ -1,5 +1,5 @@
 <_>
-   <form_key>Qbd6HnXHLx3ggdCt</form_key>
+   <form_key>aifNBRtjOXQidgyB</form_key>
    <name>Optimiseweb_MobileDetect</name>
    <channel>community</channel>
    <version_ids>
@@ -9,9 +9,9 @@
    <description>MobileDetect.net is a lightweight PHP class for detecting mobile devices. Optimise Web&apos;s MobileDetect Magento extension allows using the mobile detection functions from within Magento.</description>
    <license>Open Software License (OSL)</license>
    <license_uri>http://opensource.org/licenses/osl-3.0.php</license_uri>
-   <version>0.1.8</version>
+   <version>0.2.0</version>
    <stability>stable</stability>
-   <notes>Updated to Mobile Detect 2.7.7</notes>
+   <notes>Updated to Mobile Detect 2.8.3</notes>
    <authors>
       <name>
          <name>Kathir Vel</name>
@@ -40,7 +40,7 @@
             <max/>
          </max>
          <files>
-            <files>                                     </files>
+            <files>                                       </files>
          </files>
       </package>
       <extension>
