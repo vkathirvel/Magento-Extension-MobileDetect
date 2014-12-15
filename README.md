@@ -1,8 +1,8 @@
-#Optimise Web's MobileDetect Magento Extension
+# Optimise Web's MobileDetect Magento Extension
 
 MobileDetect.net is a lightweight PHP class for detecting mobile devices. Optimise Web's Magento extension allows using Mobile Detect's functions from within Magento.
 
-##Usage
+## Usage
 
 `Mage::helper('mobiledetect')->isMobile()`
 
@@ -10,7 +10,7 @@ You can find all the mobile detection functions that Mobile_Detect provides on t
 
 This extension is primarily for use by developers who wish to write PHP conditionals to detect mobile devices.
 
-##FAQs
+## FAQs
 
 **1. Should I backup Magento's files and database?**
 
