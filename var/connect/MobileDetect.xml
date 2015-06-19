@@ -9,9 +9,9 @@
    <description>MobileDetect.net is a lightweight PHP class for detecting mobile devices. Optimise Web&apos;s MobileDetect Magento extension allows using the mobile detection functions from within Magento.</description>
    <license>Open Software License (OSL)</license>
    <license_uri>http://opensource.org/licenses/osl-3.0.php</license_uri>
-   <version>0.2.1</version>
+   <version>0.2.2</version>
    <stability>stable</stability>
-   <notes>Updated to Mobile Detect 2.8.11</notes>
+   <notes>Updated to Mobile Detect 2.8.15</notes>
    <authors>
       <name>
          <name>Kathir Vel</name>
